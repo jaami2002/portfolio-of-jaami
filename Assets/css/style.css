@@ -304,6 +304,7 @@ section {
 .about-details-container {
     justify-content: center;
     flex-direction: column;
+    margin-top: 5rem;
 }
 
 .about-containers, 
@@ -346,7 +347,8 @@ section {
 /*Experience Section*/
 
 #experience {
-    position: relative;   
+    position: relative; 
+    margin-top: 5rem;  
 }
 
 .experience-sub-title {
