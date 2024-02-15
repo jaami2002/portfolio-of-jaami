@@ -419,7 +419,7 @@ article .icon {
     justify-content: center;
     flex-direction: column;
     height: 70vh;
-    
+    /*padding-top: 500px; <- Remove this line as mentioned above in case of any issues*/
   }
   
   .contact-info-upper-container {
